@@ -27,4 +27,6 @@ Possible Robot Environments:
 - Mobile Robot - ROS Gazebo
 
 
+### README File describing the folder structure (should also contain the links to the video(on onedrive))
+
 
