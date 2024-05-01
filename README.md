@@ -36,11 +36,11 @@ Possible Trajectories:
 - Lemniscate in the robot configuration space
 - Double Lemniscate in the robot configuration space
 
-Important deliverables in the video:
+Important deliverables for videos and plots:
 
 - Regulation experiment using the robots mentioned above. Any other robot is also entertained!
 - Joint Space Tracking experiment for the same
-- Cartesian Space Tracking experiment
+- Cartesian Space Tracking experiment using one of the above possible trajectory formats
 
 
 ### README File describing the folder structure (should also contain the links to the videoson onedrive)
